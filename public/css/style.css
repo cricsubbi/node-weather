@@ -1,0 +1,36 @@
+#s{
+	
+	padding-top: 30px;
+	padding-left: 660px;
+}
+.jumbotron{
+    text-align: center;color: blue;text-transform: capitalize;text-decoration: double;margin-bottom: 0px;background: none;
+}
+
+.well{
+    color: blue;
+}
+.page-header{
+    color: lightseagreen;
+    text-transform: capitalize;
+	padding-bottom: 1%;
+	font-family: 'Cabin', sans-serif;
+	
+
+}
+#s{
+	padding-left: 650px;
+}
+
+input {
+    border: 1px solid #23078a;
+    padding: 8px;
+}
+
+button {
+    cursor: pointer;
+    border: 1px solid #0dbd74;
+    background: #888888;
+    color: white;
+    padding: 8px;
+}
